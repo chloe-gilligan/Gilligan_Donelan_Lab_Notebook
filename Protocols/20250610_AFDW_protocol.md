@@ -1,0 +1,64 @@
+---
+layout: post
+title: AFDW Protocol
+date: '2025-06-10'
+categories: Protocols
+tags: [Ash free dry weight, physiology, Nucella, newly emerged]
+
+---
+
+## Ash Free Dry Weight - Newly Emerged offspring 2025
+
+ 
+### Materials: 
+
+- Drying Oven (60°C) 
+- Muffle furnace (450°C) 
+- Aluminum micro weigh boats 
+- Forceps
+- Analytical balance (0.0001 mg) 
+- Gloves 
+
+
+#### Goal: Determine shell (inorganic content) and tissue (organic content) weights
+  
+ 
+### Protocol: 
+
+
+1) From each tea infuser, collect 2 snails 
+
+2) Measure individual snail length and width at emergence on microscope 
+
+	-It is very important to make sure to note what snail # is associated with each length and width, this # is on the tube and should follow the organism until the end
+
+3) Freeze snails individually at -20ºC with measurements recorded in spreadsheet 
+
+4) When ready, thaw snails and rinse 5 times with deionized water (rinsing is very difficult with the newly emerged snails so can dip in DI in and out 5 times using very sensitive forceps or don't rinse but keep consistent)
+
+	- For the Nucella 2025 project this step was skipped as snails were broken continuously
+
+5) In a tube rack, dry snails in drying oven (60ºC) for 5 days with their lids open
+
+6) Pre-burn aluminum pans  
+
+7) Weigh pre-burned aluminum pans and record 
+ 
+8) Line up empty pre-burned micro weigh boats in numerical order using tweezers onto small metal weber grill drip trays. 
+
+9) Weigh snails individually in weigh boats on microbalance and record, making sure to record which snail is in which weigh boat (column on spreadsheet)
+ 
+10) Next, ash snails in the muffle furnace in their tins at 450ºC for 4 hours  
+
+11) Let snails come back to room temperature and weigh again and record 
+
+12) Calculate tissue mass (mg) by subtracting mass after ashing from initial mass 
+
+13) Calculate shell mass (mg) by subtracting mass after ashing from the mass of the weighing tin alone 
+
+
+ A  | B  | C  | D  | E  | F  |
+----|----|----|----|----|----|
+Full Sample ID  | Ashed/Burned pan (mg) | Dry Snail Initial mass (mg) | Ashed pan + ashed snail (mg)| Tissue Mass| Shell Mass |
+Calculations | | | | C-D |  D-B||
+
